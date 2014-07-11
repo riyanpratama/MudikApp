@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/9/2014 10:54:02 AM">
-  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll" archivePath="MudikApp2014.dll" lastWriteTime="7/9/2014 10:53:58 AM" />
+﻿<xapCache source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/11/2014 10:34:02 PM">
+  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll" archivePath="MudikApp2014.dll" lastWriteTime="7/11/2014 10:33:57 PM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/2/2014 9:54:25 AM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\App-Bg.png" archivePath="Assets\App-Bg.png" lastWriteTime="7/6/2014 12:30:56 AM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\AppBar\questionmark.png" archivePath="Assets\AppBar\questionmark.png" lastWriteTime="7/6/2014 12:31:26 AM" />
@@ -21,10 +21,10 @@
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/2/2014 9:54:25 AM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\Tiles\small-tile.png" archivePath="Assets\Tiles\small-tile.png" lastWriteTime="7/7/2014 1:27:14 PM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\transportasi.png" archivePath="Assets\transportasi.png" lastWriteTime="7/6/2014 12:31:00 AM" />
-  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/9/2014 10:40:14 AM" />
+  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/11/2014 10:32:39 PM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/6/2014 12:30:59 AM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="7/2/2014 9:32:44 PM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="7/2/2014 9:32:44 PM" />
   <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Assets\Tiles\medium-tile.png" archivePath="Assets\Tiles\medium-tile.png" lastWriteTime="7/7/2014 1:27:14 PM" />
-  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/9/2014 10:40:14 AM" />
+  <file source="C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/11/2014 10:32:39 PM" />
 </xapCache>

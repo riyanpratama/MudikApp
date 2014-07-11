@@ -12,6 +12,7 @@ using Microsoft.Phone.Maps.Controls;
 using System.Windows.Shapes;
 using System.Windows.Media;
 using MudikApp2014.Classes;
+using Microsoft.Phone.Maps.Services;
 
 namespace MudikApp2014.Pages
 {
@@ -20,6 +21,8 @@ namespace MudikApp2014.Pages
         public LocationMapPage()
         {
             InitializeComponent();
+            geoQ = new RouteQuery();
+            geoQ.QueryCompleted += geoQ_QueryCompleted;
         }
 
         protected override void OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
@@ -27,7 +30,9 @@ namespace MudikApp2014.Pages
             if (this.NavigationContext.QueryString.ContainsKey("Title"))
             {
                 PlaceName.Text = this.NavigationContext.QueryString["Title"];
-                AddMapLayer(TransitionData.place_location, Colors.Green);
+                GetRoute(TransitionData.current_location, TransitionData.place_location);
+                AddMapLayer(TransitionData.current_location, Colors.Green);
+                AddMapLayer(TransitionData.place_location, Colors.Blue);
             }
         }
 
@@ -53,6 +58,54 @@ namespace MudikApp2014.Pages
 
             map1.Center = geo;
         }
+
+        #region GetRoute
+        private List<GeoCoordinate> _resultOfPoint;
+        private RouteQuery geoQ;
+        private MapRoute LastRutte = null;
+
+        private void GetRoute(GeoCoordinate start, GeoCoordinate finish)
+        {
+            _resultOfPoint = new List<GeoCoordinate>();
+            _resultOfPoint.Add(start);
+            _resultOfPoint.Add(finish);
+
+            // Check
+            if (geoQ.IsBusy == true)
+            {
+                geoQ.CancelAsync();
+            }
+
+            geoQ.RouteOptimization = RouteOptimization.MinimizeDistance;
+            geoQ.TravelMode = TravelMode.Driving;
+            geoQ.Waypoints = _resultOfPoint;
+            geoQ.QueryAsync();
+        }
+
+
+        void geoQ_QueryCompleted(object sender, QueryCompletedEventArgs<Microsoft.Phone.Maps.Services.Route> e)
+        {
+
+            if (LastRutte != null)
+            {
+                map1.RemoveRoute(LastRutte);
+                LastRutte = null;
+            }
+
+            try
+            {
+                Microsoft.Phone.Maps.Services.Route myRutte = e.Result;
+                LastRutte = new MapRoute(myRutte);
+
+                map1.AddRoute(LastRutte);
+                map1.SetView(e.Result.BoundingBox);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        #endregion
 
         private void LocationMapPage_Loaded(object sender, RoutedEventArgs e)
         {
