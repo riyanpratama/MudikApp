@@ -1,0 +1,57 @@
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014.dll
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014.pdb
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\AppManifest.xaml
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014_Debug_AnyCPU.xap
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Json.WindowsPhone.dll
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Json.WindowsPhone.pdb
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\App.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MainPage.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\Pages\GeneralRoutePage.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\Pages\GetDirectionPage.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\Pages\NearbyPlacePage.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\Pages\RSSNewsPage.g.cs
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.g.resources
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.Resources.AppResources.resources
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.csproj.GenerateResource.Cache
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.pdb
+C:\Users\boniyustin\documents\visual studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\XapCacheFile.xml
+C:\Users\boniyustin\Documents\Visual Studio 2012\Projects\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.csprojResolveAssemblyReference.cache
+C:\Users\boniyustin\Documents\Visual Studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\boniyustin\Documents\Visual Studio 2012\Projects\MudikApp2014\MudikApp2014\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014.dll
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014.pdb
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\AppManifest.xaml
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\MudikApp2014_Debug_AnyCPU.xap
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\App.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MainPage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\GeneralRoutePage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\GetDirectionPage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\JalurOfflinePage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\LocationMapPage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\NearbyPlacePage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\Pages\TestingPage.g.cs
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.g.resources
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.Resources.AppResources.resources
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.csproj.GenerateResource.Cache
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.pdb
+C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,59 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MudikApp2014.Pages.NearbyPlacePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Bg-single.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,0">
+            <TextBlock Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="CategoryName" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black"/>
+            <!--<toolkit:ListPicker Name="ListJalur">
+                <toolkit:ListPickerItem Content="Jalur Utara"  />
+                <toolkit:ListPickerItem Content="Jalur Selatan" />
+                <toolkit:ListPickerItem Content="Jalur Tengah" />
+            </toolkit:ListPicker>-->
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox Margin="0,0,0,42" Name="NearbyPlaceListBox">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="20,20,10,0" Tap="NearbyPlaceItem_Tap">
+                            <!--<Image Margin="0,0" HorizontalAlignment="Left" Source="{Binding icon}"  Height="120" Width="120"/>-->
+                            <TextBlock Text="{Binding title}" HorizontalAlignment="Left" Height="40" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="24" Foreground="Black"/>
+                            <TextBlock HorizontalAlignment="Right" Height="40" Margin="5" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="Black">
+                                <Run Text="{Binding distance}" />
+                                <Run Text=" m" />
+                            </TextBlock>
+                            <TextBlock Text="{Binding vicinity}" HorizontalAlignment="Left" Height="60" Margin="5,44,5,5" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="16" Foreground="Black"/>
+                            <Path Data="M10,74 L450,74" Fill="Gray" HorizontalAlignment="Left" Height="1" Margin="0,100,0,-50" Stretch="Fill" Stroke="#FFF0C255" UseLayoutRounding="False" VerticalAlignment="Top" Width="450"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBlock Text="Tap untuk melihat lokasi" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" Margin="10"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
