@@ -446,6 +446,7 @@ namespace MudikApp2014
                     
                 }
                 this.address1TextBox.SuggestionsSource = suggestions;
+                this.address2TextBox.SuggestionsSource = suggestions;
                 IsSearching = false;
                 //if (e.Result.Count > 0)
                 //{

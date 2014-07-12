@@ -81,4 +81,3 @@ C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.c
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.pdb
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\XapCacheFile.xml
-C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.csprojResolveAssemblyReference.cache
