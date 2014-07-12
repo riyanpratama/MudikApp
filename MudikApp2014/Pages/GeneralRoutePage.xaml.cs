@@ -46,6 +46,14 @@ namespace MudikApp2014.Pages
             } 
         }
 
+        protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
+        {
+            if (geoQ.IsBusy == true)
+            {
+                geoQ.CancelAsync();
+            }
+        }
+
         private void GetListOfLocations(string contentJalur)
         {
             _resultOfPoint = new List<GeoCoordinate>();
