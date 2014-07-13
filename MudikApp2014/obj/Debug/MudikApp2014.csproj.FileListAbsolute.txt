@@ -81,3 +81,14 @@ C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.c
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.dll
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\MudikApp2014.pdb
 C:\Users\boniyustin\Documents\MudikApp2014\MudikApp2014\obj\Debug\XapCacheFile.xml
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\App.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\MainPage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\GeneralRoutePage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\GetDirectionPage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\JalurOfflinePage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\LocationMapPage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\NearbyPlacePage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\Pages\TestingPage.g.cs
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\MudikApp2014.g.resources
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\MudikApp2014.Resources.AppResources.resources
+C:\Users\Riyan Pratama\Source\Repos\MudikApp\MudikApp2014\obj\Debug\MudikApp2014.csproj.GenerateResource.Cache
